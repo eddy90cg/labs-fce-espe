@@ -106,18 +106,18 @@ Con los valores obtenidos analiticamente y los valores medidos proceda a compara
 realizamos los calculos correspondientes para econtrar los V y I:
 
 
-![calculos.jpg]
+![]
 (https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos.jpg)
 
 aca realizamos los calculos para econtrar porcentaje de error:
 
-![calculos%202.jpg]
+![]
 (https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos%202.jpg)
 
 aca mostramos las tablas con los calculos correspondientes:
 
 
-![tabla%201.jpg]
+![]
 (https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%201.jpg)
 
 
