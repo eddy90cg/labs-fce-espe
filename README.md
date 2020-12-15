@@ -73,7 +73,8 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 ### 3.DIAGRAMA
 
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg
+![Diagrama%20circuito%20resistivo%20mixto.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
 
 
 
@@ -81,7 +82,8 @@ https://github.com/eddy90cg/labs-fce-espe/blob/master/img/Diagrama%20circuito%20
 
 Los componentes para relaizar el laboratorio son los siguientes:
 
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%202.jpg
+![tabla%202.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%202.jpg)
 
 ### 5. EXPLICACIÓN
 
@@ -101,25 +103,30 @@ Con los valores obtenidos analiticamente y los valores medidos proceda a compara
 
 realizamos los calculos correspondientes para econtrar los V y I:
 
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos.jpg
+
+![calculos.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos.jpg)
 
 aca realizamos los calculos para econtrar porcentaje de error:
 
-
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos%202.jpg
+![calculos%202.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos%202.jpg)
 
 aca mostramos las tablas con los calculos correspondientes:
 
 
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%201.jpg
+![tabla%201.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%201.jpg)
 
 
 
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%203.jpg
+![tabla%203.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%203.jpg)
 
 
 
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%204.jpg
+![tabla%204.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%204.jpg)
 
 
 
@@ -130,12 +137,12 @@ https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%204.jpg
 
 Presntamos la simulacion realizada por la plataforma tiderkat:
 
-
-https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%205.jpg
+![tabla%205.jpg]
+(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%205.jpg)
 
 ### 7. APORTACIONES 
 
-agregamos el uso de un software no señalado en la clase que se llama diagrama DIA-UML donde presentamos el diagram o esquema de circuitos.
+Agregamos el uso de un software no señalado en la clase que se llama diagrama DIA-UML donde presentamos el diagram o esquema de circuitos.
 
 
 ### 9. CONCLUSIONES 
