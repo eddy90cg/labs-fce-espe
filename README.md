@@ -1,74 +1,105 @@
-# informe de lab1-fce-espe
-aca iran el repositorio de los labs de fce 
+# LEYES DE KIRCHHHOFF
 
-este es mi archivo README donde explico todo lo que subire respecto a los laboratorios de la materia laboratorio fundamentos de circuitos electricos 
+#### RESUMEN
 
-integrantes:
-Edison Cadena
-Lisandro Pelaez
+La practica de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, exclusivamente matemáticos y por medio de voltaje o voltímetro, para concluir compararamos los resultados verificar las leyes de Kirchhoff.
 
-1. OBJETIVOS
-  Los objetivos deben responder claramente la pregunta ¿Qué investigar? El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación.
+### 1.  OBJETIVOS
 
-  Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados.
+#### OBJETIVO GENERAL
 
-  Los objetivos de investigación deben cumplir ciertas características:
+- Realizar las mediciones de corrientes y voltajes en un circuito con tres fuentes de poder y comparar los valores obtenidos experimentalmente, con los obtenidos del cálculo aplicando las leyes de Kirchhoff.
 
-  Deben ser concretos, cuantificables, verificables
-  Deben estar redactados utilizando verbos en infinitivo
-  Deben ser alcanzables por el investigador.
-  Tienen que estar ligados con el tiempo.
-  Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos.
+- La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, solamente matemáticos y por medio de voltaje o voltímetro, para finalmente comparar los resultados y comprobar las leyes de Kirchhoff.
 
-  Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos.
+#### OBJETIVOS ESPECÍFICOS
 
-  Considerar la Taxonomía de Bloom
+- Afianzar experimentalmente las leyes de conservación de la energía eléctrica y la Conservación de la carga.
 
-2. MARCO TEÓRICO
-  Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+- Verificar las leyes de Kirchhoff: Ley de Mallas y ley de Nodos.
 
-  Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
+### 2. MARCO TEÓRICO
 
-  Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-  Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-  Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-  Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-  Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+Gustav Kirchhoff (1824-1887) fue un físico alemán nacido en marzo de 1824 en la entonces Prusia oriental. Durante su carrera científica realizó importantes contribuciones en campos como la electricidad, la espectroscopia o la medición de radiaciones de los cuerpos negros. 
 
-3. DIAGRAMAS
-  Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
+En 1845 enunció las denominadas leyes de Kirchhoff, aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica; entendidas como una extensión de la ley de la conservación de la energía, se basaban en la teoría del físico Georg Simon Ohm, según la cual la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente.
+
+Las tres leyes de la espectroscopia de Kirchhoff
+
+El científico elaboró un conjunto de leyes para describir cómo se comporta la emisión de luz por objetos incandescentes:
+
+1- Un objeto sólido caliente produce luz en un espectro continuo.
+
+2- Un gas tenue produce luz con líneas espectrales en longitudes de onda discretas que dependen de la composición química del gas.
+
+3- Un objeto sólido a alta temperatura rodeado de un gas tenue a temperaturas inferiores produce luz en un espectro continuo con huecos en longitudes de onda discretas cuyas posiciones dependen de la composición química del gas.
+
+Las tres leyes sobre la espectrografía de Kirchhoff fueron, más adelante, la base de la aparición de la mecánica cuántica.
+
+La ley de Kirchhoff, constituyen la base de los análisis moderno de redes. Son aplicables a circuitos con una o más fuentes de tensión.
+
+* Nodo: Punto de un circuito en el que se unen tres o más conductores.
+* Rama: Parte del circuito unida por dos nodos.
+* Malla: Recorrido cerrado dentro de un circuito.
+
+1. Ley de nodos
+
+ La suma algebraica de las corrientes en un nodo es igual a cero.      
+
+I1 – I2 – I3 = 0
+
+2. Ley de mallas 
+
+ La suma de todas las caídas de tensión en un malla es igual a la suma de todas las tensiones aplicada
+
+VAB = V1 + V2 + V3
+
+Método de las mallas
+
+Mediante el método de las mallas es posible resolver circuitos con varias mallas y fuentes. 
+Consiste en plantear las corrientes de cada malla como su intensidad por su resistencia y sumar o restar las intensidades por las resistencias relacionadas con mallas adyacentes.
+
+1). Se asigna un sentido arbitrario de circulación de corriente a cada malla (las que se quieren calcular). El sentido no tiene porqué ser el real (de hecho antes de calcularlo no se lo conoce). Si se obtiene como resultado alguna corriente negativa, el sentido real de la misma es al revés del utilizado para esa malla.
+
+ V1 = I1 (R1 + R2) - I2 (R2)
+
+2). Se plantea a la suma de las fuentes de cada malla como I por R de la malla y se le restan las ramas comunes con otras mallas. El signo que se les pone a las fuentes depende del sentido de circulación elegido para la corriente. Si se pasa a través de la fuente de negativo a positivo con el sentido elegido, se utiliza (+), de lo contrario (-).
+
+ V2 = I2 (R2 + R3 + R4) – I1 (R2) – I3 (R4)
+
+3). Los valores de resistencias y de tensiones se conocen, por lo tanto quedan 3 ecuaciones con 3 incógnitas (para 3 mallas interiores) en donde cada incógnita es la corriente de malla. Resolviendo el sistema se obtienen las corrientes. Si se obtiene alguna corriente negativa quiere decir que el sentido real es al revés del elegido.
+
+ V3 = I3 (R4 + R5) – I2 (R4)
+
+### 3.DIAGRAMA
+
+### 4. LISTA DE COMPONENTES
 
 
 
+### 5. EXPLICACIÓN
+
+### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+### 7. APORTACIONES 
+
+### 9. CONCLUSIONES 
+
+- Hemos descubierto de forma teórica los valores de la corriente y del voltaje que fluye por cada una de las resistencias del circuito, mediante del simulador online para lo cual usamos las reglas de Kirchhoff. 
+
+- Costatamos que las leyes de Kirchhoff al acatar los valores adquiridos tanto de forma teórica como de forma experimental, visulizando que la diferencia entre estas es mínima, por lo tanto podríamos concluir en que las leyes de Kirchhoff se cumplen los valores arrojados de error porcentual de medición del teórico con respecto al experimental depende del instrumento (Resistencia interna,Precisión de medición).
+
+- Los valores de corriente fueron también determinados a partir del método de mallas, y al tener nuestras ecuaciones con la ayuda matrices pudimos obtener los valores teóricos  
+  de la corriente y por ende los voltajes, además y se puede apreciar que los valores casi son los mismos.
+
+### 10. BIBLIOGRAFÍA 
+
+https://www.lifeder.com/gustav-kirchhoff/
+
+https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
+
+https://www.ecured.cu/Leyes_de_Kirchhoff
 
 
-
-
-
-
-4. LISTA DE COMPONENTES
-  En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo.
-
-5. EXPLICACIÓN
-  En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
-
-
-
-6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
-  En este punto se debe especificar las aplicaciones secundarias necesarias, la configuración del terminal, así como cualquier otra información necesaria para que pueda funcionar el proyecto, tanto en hardware como en software.
-
-7. APORTACIONES
-  En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
-
-8. CONCLUSIONES
-  Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
-
-9. BIBLIOGRAFÍA
-  LeyesdeKirchhoff:(2020; 11junio):electronicacompleta:https : ==electronicacompleta
-  :com=leyes − de − kirchhoff=
-  J:L:F:(2018):LeydeOhm:F ISICALAB:https : ==www:fisicalab:com=apartado=ley
-  − de − ohm
-  F errer; V:(2016):Queesunprotoboardobreadboard:V icenteF errer:https : ==
-  vicentferrer:com=protoboard − breadboard=
+### 11. ANEXOS
 
