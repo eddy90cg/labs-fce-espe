@@ -1,5 +1,7 @@
 # LEYES DE KIRCHHHOFF - LABORATORIO 1
 
+#### INTEGRANTES: EDISON CADENA - LISSANDRO PELAEZ
+
 #### RESUMEN
 
 La practica de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, exclusivamente matemáticos y por medio de voltaje o voltímetro, para concluir compararamos los resultados verificar las leyes de Kirchhoff.
