@@ -73,15 +73,70 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 ### 3.DIAGRAMA
 
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg
+
+
+
 ### 4. LISTA DE COMPONENTES
 
+Los componentes para relaizar el laboratorio son los siguientes:
 
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%202.jpg
 
 ### 5. EXPLICACIÓN
 
+Realice el circuito visto en el diagrama 1 en el simulador de tinkercad.
+
+Con los multımetros proceda a tomar el voltaje en cada uno de los resistores y
+anote los resultadas en la tabla correspondiente.
+
+Con el mismo multimetro coloquelo para medir corriente, proceda a medir la
+corriente en cada uno de los resistores y coloque los resultados en la tabla
+correspondiente.
+
+Con los valores obtenidos proceda a verificar que se cumple la ley de Kirchhoff.
+
+Con los valores obtenidos analiticamente y los valores medidos proceda a compararlos.
+
+
+realizamos los calculos correspondientes para econtrar los V y I:
+
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos.jpg
+
+aca realizamos los calculos para econtrar porcentaje de error:
+
+
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos%202.jpg
+
+aca mostramos las tablas con los calculos correspondientes:
+
+
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%201.jpg
+
+
+
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%203.jpg
+
+
+
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%204.jpg
+
+
+
+
 ### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
+
+
+Presntamos la simulacion realizada por la plataforma tiderkat:
+
+
+https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%205.jpg
+
 ### 7. APORTACIONES 
+
+agregamos el uso de un software no señalado en la clase que se llama diagrama DIA-UML donde presentamos el diagram o esquema de circuitos.
+
 
 ### 9. CONCLUSIONES 
 
@@ -101,5 +156,4 @@ https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
 https://www.ecured.cu/Leyes_de_Kirchhoff
 
 
-### 11. ANEXOS
 
