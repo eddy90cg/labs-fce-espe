@@ -75,17 +75,13 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 ### 3.DIAGRAMA
 
-![Diagrama%20circuito%20resistivo%20mixto.jpg]
-(https://github.com/eddy90cg/labs-fce-espe/blob/main/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
-
-
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
 
 ### 4. LISTA DE COMPONENTES
 
 Los componentes para relaizar el laboratorio son los siguientes:
 
-![tabla%202.jpg]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%202.jpg)
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%202.jpg)
 
 ### 5. EXPLICACIÓN
 
@@ -106,41 +102,29 @@ Con los valores obtenidos analiticamente y los valores medidos proceda a compara
 realizamos los calculos correspondientes para econtrar los V y I:
 
 
-![]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos.jpg)
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%202.jpg)
 
 aca realizamos los calculos para econtrar porcentaje de error:
 
-![]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos%202.jpg)
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/calculos%202.jpg)
 
 aca mostramos las tablas con los calculos correspondientes:
 
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%201.jpg)
 
-![]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%201.jpg)
+Verificación de la LVK
 
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%203.jpg)
 
+Verificación de la LCK
 
-![tabla%203.jpg]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%203.jpg)
-
-
-
-![tabla%204.jpg]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%204.jpg)
-
-
-
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%204.jpg)
 
 ### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-
-
 Presntamos la simulacion realizada por la plataforma tiderkat:
 
-![tabla%205.jpg]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%205.jpg)
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%205.jpg)
 
 ### 7. APORTACIONES 
 
@@ -158,11 +142,10 @@ Agregamos el uso de un software no señalado en la clase que se llama diagrama D
 
 ### 10. BIBLIOGRAFÍA 
 
-https://www.lifeder.com/gustav-kirchhoff/
+Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
 
-https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
+     https://www.lifeder.com/leyes-kirchhoff/
 
-https://www.ecured.cu/Leyes_de_Kirchhoff
+Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 
-
-
+     https://electronicacompleta.com/leyes-de-kirchhoff/
