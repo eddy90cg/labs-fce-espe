@@ -149,3 +149,9 @@ Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
 Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 
      https://electronicacompleta.com/leyes-de-kirchhoff/
+     
+     
+ ### 11.ANEXOS
+ 
+ 
+![](https://github.com/eddy90cg/labs-fce-espe/blob/master/img/calculos.jpg)
